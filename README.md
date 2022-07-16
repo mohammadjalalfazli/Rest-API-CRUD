@@ -25,17 +25,17 @@ API URLs
 
 BaseURL = "http://localhost:8082/api"
 
-- BaseURL + /save
+- (http://localhost:8082/api/save)
     used for save one account (Need Account Model)
-- BaseURL + /saveAll
+- (http://localhost:8082/api/saveAll)
     used for save multiple account  (Need List Of Account Model)
-- BaseURL + /findById/{id}
+- (http://localhost:8082/api/findById/{id})
     used for find account by provided Id (Need Account Id)
-- BaseURL + /deleteById/{id}
+- (http://localhost:8082/api/deleteById/{id})
     used for delete account by provided Id (Need Account Id)
-- BaseURL + /list
+- (http://localhost:8082/api/list)
     used for getting all accounts
-- BaseURL + /search
+- (http://localhost:8082/api/search)
     used for getting account by provided Criteria  (Need Account Model)
     
 
