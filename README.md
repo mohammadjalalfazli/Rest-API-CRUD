@@ -5,7 +5,7 @@ Building Rest API Service with Spring Data JPA Use In Memory Database
 - Language Java
 - Database (No DB) (Using List)
 
-In this Project, we're going to build a Spring Boot Rest CRUD API examples with Maven that use Spring Data JPA to interact with H2 database.
+In this Project, we're going to build a Spring Boot Rest CRUD API examples with Maven that use List as Data Source.
 
 Requirement
 - Entity (Account)
